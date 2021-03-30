@@ -7,7 +7,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=for-the-badge&logo=scss)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=for-the-badge&logo=SASS)
 
 ### ✉ Mail me: dmitry.smaliak@gmail.com
 ### 🌐 Telegram: @dmitry_smaliak
