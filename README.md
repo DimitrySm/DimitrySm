@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is Dmitry Smaliak!
-## I'm a beginner Front-end developer from Minsk.
+## I'm a Full-stack developer from Minsk.
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
